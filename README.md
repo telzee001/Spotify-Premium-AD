@@ -55,3 +55,6 @@ Completed.
 ## Disclaimer
 
 This project is an independent frontend recreation created for portfolio and development purposes. It is not affiliated with or endorsed by Spotify. Spotify names, branding, and trademarks belong to their respective owners.
+
+![alt text](image-1.png)
+![alt text](image-2.png)
